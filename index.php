@@ -302,7 +302,8 @@
       </div>
       <?php require_once __DIR__ . '/components/footer.php'; ?>
         </body>
-<script type="text/javascript" src="js/script.js"></script>
+
+<script type="text/javascript" src="js/script.js"></scrip>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js"></script>
 
